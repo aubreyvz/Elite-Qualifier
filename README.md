@@ -1,6 +1,6 @@
-# Title
+# Autocorrect Program
 
-Simple (or clever and funny?) description
+You will be able to type a word, and if there is an error, it will show three different word suggestions
 
 ## Table of Contents
 
@@ -12,14 +12,13 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This is a qualifier for the Code2College Elite Program
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+You will need to import time, as well as difflib for this code to work
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Simply type a words and press enter, and the program will spit back three word suggestions if it finds an error
 
-### Any optional sections
