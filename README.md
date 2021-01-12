@@ -1,6 +1,6 @@
 # Autocorrect Program
 
-You will be able to type a word, and if there is an error, it will show three different word suggestions
+You will be able to type a word, and if there is an error, it will show three different word suggestions.
 
 ## Table of Contents
 
@@ -12,13 +12,13 @@ You will be able to type a word, and if there is an error, it will show three di
 
 ## Background
 
-This is a qualifier for the Code2College Elite Program
+This is a qualifier for the Code2College Elite Program.
 
 ## Install
 
-You will need to import time, as well as difflib for this code to work
+You will need to import time, as well as difflib for this code to work.
 
 ## Usage
 
-Simply type a words and press enter, and the program will spit back three word suggestions if it finds an error
+Simply type a words and press enter, and the program will spit back three word suggestions if it finds an error.
 
