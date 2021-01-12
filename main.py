@@ -36,5 +36,3 @@ if __name__ == "__main__":
     main()
     autocorrect(text, all_words)
 
-
-print("thoughts?")
