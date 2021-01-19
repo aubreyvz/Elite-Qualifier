@@ -21,7 +21,7 @@ You will need to import time, as well as difflib for this code to work.
 ## Usage
 
 Simply type a words and press enter, and the program will spit back three word suggestions if it finds an error.
-
+=======
 ## Limitation
 
 Only words that are used commonly, slangs aren't included.
@@ -32,6 +32,5 @@ To test the project:
 
 1.  Run the test
 2.  Check the results
-3.  Upload the tests
-
-
+3.  Upload test run
+4.  have fun
