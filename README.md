@@ -25,3 +25,13 @@ Simply type a words and press enter, and the program will spit back three word s
 ## Limitation
 
 Only words that are used commonly, slangs aren't included.
+
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
+3.  Upload the tests
+
+
