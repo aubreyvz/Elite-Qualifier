@@ -22,3 +22,11 @@ You will need to import time, as well as difflib for this code to work.
 
 Simply type a words and press enter, and the program will spit back three word suggestions if it finds an error.
 
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
+3.  Upload test run
+4.  Enjoy :)
